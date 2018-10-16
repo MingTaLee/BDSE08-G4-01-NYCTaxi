@@ -7,7 +7,8 @@ nyu-2451-36743-geojson.json : New York Taxi Zones GeoJSON downloaded from https:
 
 nyu_2451_36743.zip : New York Taxi Zones Shapefile downloaded from https://geo.nyu.edu/catalog/nyu-2451-36743
 
-Spark_Title.ipynb
-title.ipynb
+Spark_Title.ipynb :
+
+title.ipynb :
 
 Readline.ipynb : code to remove unwanted columns in our datasets (NYC Taxi, Yellow and Green Taxi) - by Shao-Chi.
