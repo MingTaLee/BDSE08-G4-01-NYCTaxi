@@ -12,5 +12,5 @@ title.ipynb : Python code for data cleaning (unify column names, remove missing 
 Spark_Title.ipynb : Spark version of title.ipynb
 
 Readline.ipynb
-uploaded 2018/10/16, updated 2018/10/16, merged 2018/10/17
-code to remove unwanted columns in our datasets and unify column names - including instructor Yang's 2 codes - by Shao-Chi.
+  uploaded 2018/10/16, updated 2018/10/16, merged 2018/10/17
+  code to remove unwanted columns in our datasets and unify column names - including instructor Yang's 2 codes - by Shao-Chi.
