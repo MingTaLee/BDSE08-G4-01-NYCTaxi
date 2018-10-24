@@ -19,7 +19,7 @@ Using New York City Taxi data sets in iii BDSE08 Group 4 final project
   Spark version of title.ipynb
 
 ### Readline.ipynb
-  Uploaded 2018/10/16, updated 2018/10/16, merged 2018/10/17 \n  
+  Uploaded 2018/10/16, updated 2018/10/16, merged 2018/10/17
   code to remove unwanted columns in our datasets and unify column names - including instructor Yang's 2 codes - by Shao-Chi.
 
 ### MappingLonLat-Shapely-2018-1022-1913.ipynb
