@@ -26,3 +26,8 @@ Using New York City Taxi data sets in iii BDSE08 Group 4 final project
   Uploaded: 2018/10/23
   Given a point (set of Longitude / Latitude), this python code can find out which NYC Taxi Zones the point belongs.
   This is to transform all longitude / latitude data in the NYC Taxi dataset to NYC Taxi zones.
+
+### central_park_weather.html
+  Weather record of Central Park (NY, USA) up to June, 2018
+  Source: https://github.com/toddwschneider/nyc-taxi-data/blob/master/data/central_park_weather.csv
+  Format: HTML, not CSV!
